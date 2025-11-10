@@ -1,7 +1,7 @@
 # AI-based-Classroom-Attendance-fromFace-Recognition
 
-### Name: Aravindan D
-### Ref No:212223240012
+### Name:  Aravindan D
+### Ref No: 212223240012
 
 # Overview
 
@@ -157,6 +157,7 @@ Future Work: Add live camera attendance, liveness detection, and cloud integrati
 <img width="1586" height="846" alt="Screenshot 2025-11-10 135631" src="https://github.com/user-attachments/assets/5c55091f-a7b4-4cc4-975c-75a96ee36bb8" />
 
 <img width="1910" height="924" alt="image" src="https://github.com/user-attachments/assets/75509504-9074-470b-9ef9-ae0a1ab21a47" />
+
 # Result
 
 Works best with frontal or slightly angled faces.Accuracy decreases with poor lighting or occlusion (masks, shadows).Adding multiple registration images per student improves results.
