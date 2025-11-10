@@ -1,7 +1,7 @@
 # AI-based-Classroom-Attendance-fromFace-Recognition
 
-### Name: Vignesh .R
-### Ref No:212223240177
+### Name: Aravindan D
+### Ref No:212223240012
 
 # Overview
 
